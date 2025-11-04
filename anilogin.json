@@ -26,6 +26,12 @@
       "password": "3344",
       "expire_date": "2026-01-15"
     },
+{
+      "device_id": "a3eac6783fb0e3cb",
+      "password": "3345",
+      "expire_date": "2026-01-15"
+    },
+    
     {
       "device_id": "offline-device",
       "password": "1234",
